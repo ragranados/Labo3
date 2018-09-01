@@ -7,8 +7,15 @@ header {
     padding: 1.5%;
     text-align: center;
     box-shadow: 5px 5px 5px black;
-    background-color: chartreuse;
+    background-color: rgb(13, 3, 75);
     border-radius: 5px;
+}
+
+header p {
+    font-size: 1.6em;
+    text-transform: uppercase;
+    color: yellow;
+    font-weight: bold;
 }
 
 body table{
@@ -56,4 +63,21 @@ tr:nth-child(odd)>td:nth-child(even):hover>div{
 
 tr:nth-child(even)>td:nth-child(odd):hover>div{
     color: white;
+}
+
+footer {
+    padding: 2em;
+    background-color: rgb(13, 3, 75);
+    width: 100%;
+    box-shadow: 5px 5px 5px black;
+}
+
+footer p {
+    color: yellow;
+    text-align: right;
+    font-weight: 700;
+}
+
+footer .footerclass {
+    width: 80%;
 }
