@@ -75,7 +75,7 @@ footer {
 footer p {
     color: yellow;
     text-align: right;
-    font-weight: 700;
+    font-weight: 700; 
 }
 
 footer .footerclass {
