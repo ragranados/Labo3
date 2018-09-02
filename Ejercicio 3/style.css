@@ -1,0 +1,66 @@
+body {
+    border: 2px solid black;
+}
+
+:root {
+    font-size: 18px;
+}
+
+
+
+button {
+    margin: 0.6em 0.8em;
+    font-weight: 500;
+    padding: 0.7% 0.7%;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.tamanios button{
+    background-color: #f4f3f2;
+    color: #707486;
+    border: 1px solid #f4f3f2;
+}
+
+.tamanios > button:nth-child(3){
+    font-size: 0.5em;
+}
+
+#grande{
+    font-size: 1.3em;
+}
+
+.colores button{
+    color: white;
+}
+
+.colores button:nth-child(1){
+    background-color: #57d68d;
+    border: 1px solid #57d68d;
+}
+
+.colores button:nth-child(2) {
+    background-color: #5cace2;
+    border: 1px solid #5cace2;
+}
+
+
+.colores button:nth-child(3) {
+    background-color: #ae7ac4;
+    border: 1px solid #ae7ac4;
+}
+
+.colores button:nth-child(4) {
+    background-color: #5c6d7e;
+    border: 1px solid #5c6d7e;
+}
+
+.colores button:nth-child(5) {
+    background-color: #ea974e;
+    border: 1px solid #ea974e;
+}
+
+.colores button:nth-child(6) {
+    background-color: #ea6f62;
+    border: 1px solid #ea6f62;
+}
