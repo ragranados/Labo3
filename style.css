@@ -1,0 +1,27 @@
+div{
+    padding-left: 36%;
+    padding-top: 21%;
+}
+
+div button {
+    margin: 1em;
+    padding: 1em 0.5em;
+    font-size: 1em;
+    border: 0.2em solid yellow;
+    border-radius: 10px;
+    background-color: rgb(23, 23, 116); 
+    
+    font-weight: 700;
+}
+
+button > a {
+    color: white;
+    width: 100%;
+    size: 100%;
+    text-decoration: none;
+}
+
+.cambiar:hover  {
+    background-color: rgb(14, 14, 75) ;
+}
+
