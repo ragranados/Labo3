@@ -72,7 +72,7 @@ tr:nth-child(even)>td:nth-child(odd):hover>div{
 footer {
     padding: 2em;
     background-color: rgb(13, 3, 75);
-    width: 100%;
+    width: 97%;
     box-shadow: 5px 5px 5px black;
 }
 
